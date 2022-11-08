@@ -1,10 +1,12 @@
+
 ## 만나서 반갑습니다🙇‍♂️
+
 
 ### 🙋🏻‍♂️Who Am I?
 부족한점이 많지만, 그렇기에 더 나아갈곳이 많다 생각하며 꾸준히 나아가려합니다.
 
 ### 💡Contact
-[![티스토리 Badge](https://img.shields.io/badge/블로그-yellow?style=for-the-badge&logo=Tistory&logoColor=white)](https://zzsza.github.io/)
+[![티스토리 Badge](https://img.shields.io/badge/블로그-yellow?style=for-the-badge&logo=Tistory&logoColor=white)](https://coding-daily.tistory.com/)
 [![티스토리 Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tjdngur22@gmail.com)
 
 ### ⚡️Skills
