@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHS95&hide=python&layout=compact&theme=dark)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHS95&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WHS95&show_icons=true&theme=dark) -->
